@@ -1,2 +1,3 @@
 # gadael-demo-data
-Build demo site
+
+Data used to build demo site every days

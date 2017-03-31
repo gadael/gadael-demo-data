@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"starfleet.accountnwdayscalendars"},{"v":1,"key":{"account":1},"name":"account_1","ns":"starfleet.accountnwdayscalendars","background":true},{"v":1,"unique":true,"key":{"account":1,"calendar":1,"from":1},"name":"account_1_calendar_1_from_1","ns":"starfleet.accountnwdayscalendars","background":true}]}
