@@ -1,4 +1,4 @@
 #!/bin/bash
 
-rm -Rf starfleet/
-mongodump --db starfleet -o .
+rm -Rf dump/starfleet/
+mongodump --db starfleet -o dump/
