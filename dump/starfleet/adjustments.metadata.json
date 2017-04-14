@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"starfleet.adjustments"},{"v":1,"key":{"rightRenewal":1},"name":"rightRenewal_1","ns":"starfleet.adjustments","background":true},{"v":1,"key":{"user":1},"name":"user_1","ns":"starfleet.adjustments","background":true},{"v":1,"key":{"name":1},"name":"name_1","ns":"starfleet.adjustments","background":true}]}

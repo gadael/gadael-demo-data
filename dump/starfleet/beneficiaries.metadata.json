@@ -1,1 +1,0 @@
-{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"starfleet.beneficiaries"},{"v":1,"key":{"ref":1},"name":"ref_1","ns":"starfleet.beneficiaries","background":true},{"v":1,"unique":true,"key":{"right":1,"document":1},"name":"right_1_document_1","ns":"starfleet.beneficiaries","background":true}]}
