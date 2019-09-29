@@ -1,1 +1,1 @@
-{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"demo.messages"},{"v":1,"key":{"from.id":1},"name":"from.id_1","ns":"demo.messages","background":true},{"v":1,"key":{"to.id":1},"name":"to.id_1","ns":"demo.messages","background":true}]}
+{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "name" : "_id_", "ns" : "demo.messages" }, { "v" : 1, "key" : { "from.id" : 1 }, "name" : "from.id_1", "ns" : "demo.messages", "background" : true }, { "v" : 1, "key" : { "to.id" : 1 }, "name" : "to.id_1", "ns" : "demo.messages", "background" : true } ] }
